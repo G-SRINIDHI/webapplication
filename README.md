@@ -1,2 +1,2 @@
 # webapplication
-this repo contains web application files with files as database 
+this repo contains web application files with XAMPP as database 
